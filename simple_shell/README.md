@@ -12,3 +12,4 @@ This project is an implementation of a simple shell in the C programming languag
 ## Project Structure
 - The main shell implementation is in the `shell.c` file.
 - Additional files may include utility functions, header files, and any other necessary components.
+
